@@ -63,7 +63,8 @@ Displays the model’s evaluation results:
 
     ###  POWER BI DASHBOARD screenshorts 
  
- <img width="1365" height="767" alt="Screenshot 2025-08-04 112230" src="https://github.com/user-attachments/assets/348ada8d-e76e-4386-8740-3afbe32587b0" />
+<img width="1351" height="767" alt="Screenshot 2025-08-04 212911" src="https://github.com/user-attachments/assets/a360934b-9f21-4f52-9f62-d31b5a337b74" />
+
 
 
 ## Requirements
@@ -77,3 +78,4 @@ Displays the model’s evaluation results:
 ## Installation
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn openpyxl
+
